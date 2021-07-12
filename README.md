@@ -203,3 +203,25 @@
 > - https://github.com/JEONGEUIHUN/2020_CapstoneDesign_-Hallym.R.V-
 
 > ![image](https://user-images.githubusercontent.com/81840908/118179109-d1410180-b46f-11eb-9170-7c2cb694f01a.png)
+
+<br/>
+
+> ## Escape from Hallym VR
+> ### 작품소개
+> - 공학관에서 부터 시작해서 CLC와 대학본부를 거쳐서 좀비들을 피해서 정문으로 학교를 탈출하는 디펜스 VR 게임
+>
+> ### 개발환경
+> - Unity / C#
+>
+> ### 시연영상
+> - https://youtu.be/3tckZk_9XGw
+>
+> ### 비고
+> - 2021년 1학기 가상현실기초및실습 프로젝트 출품작
+
+> ![image](https://user-images.githubusercontent.com/81840908/125331359-d55fa180-e382-11eb-9fd1-23be4c029c59.png)
+> ![image](https://user-images.githubusercontent.com/81840908/125331452-f627f700-e382-11eb-91ad-a607f2832c3c.png)
+> ![image](https://user-images.githubusercontent.com/81840908/125331474-fde79b80-e382-11eb-8930-e14ff3b029d2.png)
+> ![image](https://user-images.githubusercontent.com/81840908/125331515-0cce4e00-e383-11eb-89c1-6652299ffea9.png)
+
+
