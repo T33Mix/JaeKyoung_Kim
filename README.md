@@ -196,7 +196,7 @@
 > - Unity / C#
 >
 > ### 시연영상
-> - https://youtu.be/hZwwqKXLcok
+> - https://youtu.be/qUHT7BaWq1w
 >
 > ### 비고
 > - 2020년 2학기 SW캡스톤 디자인 경진대회 출품 및 수상
