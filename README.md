@@ -225,5 +225,19 @@
 > ![image](https://user-images.githubusercontent.com/81840908/125331979-a695fb00-e383-11eb-9e31-4b914b2bfaa5.png)
 > ![image](https://user-images.githubusercontent.com/81840908/125332012-ae559f80-e383-11eb-9798-5609d7a1961b.png)
 
+<br/>
+
+> ## Detect the bird
+> ### 작품소개
+> - 15종의 새를 분류해 보세요.
+> 
+> ### 개발환경
+> - Kaggle / Python, Pytorch
+> 
+> ### 비고
+> - https://www.kaggle.com/c/detect-the-bird/overview
+
+> ![image](https://user-images.githubusercontent.com/81840908/125332458-07253800-e384-11eb-97ca-518a7a1391c9.png)
+
 
 
