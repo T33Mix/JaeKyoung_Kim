@@ -137,6 +137,9 @@
 > ### 개발환경
 > - Unity / C#
 > 
+> ### 시연영상
+> - https://youtu.be/5OgRyIgv-R8
+>
 > ### 비고
 > - 2020년 VRAR게임제작기초 프로젝트 출품작
 
@@ -155,6 +158,9 @@
 > ### 개발환경
 > - Unreal Engine / C++
 > 
+> ### 시연영상
+> - https://youtu.be/u6Bbju1psj4
+>
 > ### 비고
 > - 2020년 게임프로그래밍 프로젝트 출품작
 
@@ -171,6 +177,9 @@
 > ### 개발환경
 > - Unity / C#, Vuforia
 > 
+> ### 시연영상
+> - https://youtu.be/7SCLbkpvWFo
+>
 > ### 비고
 > - 2020년 증강현실 기초 및 실습 프로젝트 출품 및 수상
 > - 2020년 강원 VR/AR 전문인력 양성교육 성과발표회 프로젝트 출품 및 수상
@@ -185,7 +194,10 @@
 >
 > ### 개발환경
 > - Unity / C#
-> 
+>
+> ### 시연영상
+> - https://youtu.be/hZwwqKXLcok
+>
 > ### 비고
 > - 2020년 2학기 SW캡스톤 디자인 경진대회 출품 및 수상
 > - https://github.com/JEONGEUIHUN/2020_CapstoneDesign_-Hallym.R.V-
